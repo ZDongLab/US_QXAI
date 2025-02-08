@@ -1,7 +1,4 @@
 # Innovative Redefinition of Ultrasound Features Using Explainable Artificial Intelligence: A Dual-Center Validation Highlighting Clinical Advantages in Thyroid Nodule ACR TI-RADS Management
-<center>
-<img src='.\demo\Figure1.framework.png', width='600'>
-</center>
 
 [It will be activated at: 2025_Radio_US_QXAI.pdf]( ) 
 
