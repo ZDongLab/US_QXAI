@@ -99,7 +99,7 @@ If you use US_QXAI in your research, please cite:
 @ARTICLE{Dong2025,
   author  = {xxx,xxx,xxx,xxx},
   title   = {Innovative Redefinition of Ultrasound Features Using Explainable Artificial Intelligence: A Dual-Center Validation Highlighting Clinical Advantages in Thyroid Nodule ACR TI-RADS Management},
-  journal = {Radiology (Under Review)}, 
+  journal = {xxxxxxxxx}, 
   volume  = {0},
   year    = {2025},
   pages   = {0}
